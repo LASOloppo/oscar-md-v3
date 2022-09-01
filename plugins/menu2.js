@@ -185,7 +185,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: '【𝙔𝙤𝙪𝙩𝙪𝙗𝙚⛽】',
-                                    url: 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+                                    url: 'https://youtube.com/channel/UC3VSUWzMu_tk61XIiH1GgYg'
                                 }
                             }, {
                                 quickReplyButton: {
